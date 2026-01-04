@@ -1,0 +1,8 @@
+streamlit
+fastapi
+uvicorn
+pypdf
+faiss-cpu
+langchain
+langchain-openai
+neo4j
