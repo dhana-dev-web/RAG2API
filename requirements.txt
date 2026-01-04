@@ -1,8 +1,17 @@
-streamlit
+# Web framework
+flask
+flask-cors
+gunicorn
+
+# (Optional if you still use FastAPI somewhere)
 fastapi
 uvicorn
+
+# RAG components
 pypdf
 faiss-cpu
 langchain
 langchain-openai
+
+# Knowledge Graph
 neo4j
